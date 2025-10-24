@@ -1,5 +1,0 @@
-python-pkcs11
-cryptography
-click
-Pillow
-cairosvg
