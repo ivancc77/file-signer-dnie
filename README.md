@@ -130,4 +130,8 @@ python verificar_firma_dnie.py documento.pdf documento.pdf.sig mi_certificado.de
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT.
+Este proyecto se distribuye bajo la Licencia MIT.
+
+Copyright (c) 2025 Iván Ciudad Cires y Víctor Carbajo Ruiz.
+
+Consulta el archivo `LICENSE` en la raíz del repositorio para ver los detalles y condiciones completas.
